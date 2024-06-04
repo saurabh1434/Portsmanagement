@@ -1,0 +1,6 @@
+@PortsManagement_HostAddress = http://localhost:5277
+
+GET {{PortsManagement_HostAddress}}/marintime/
+Accept: application/json
+
+###
